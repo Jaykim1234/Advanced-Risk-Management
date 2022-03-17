@@ -1,4 +1,7 @@
-cd " "  // change to your working directory / folder
+cls
+clear all
+
+cd "C:\Users\Jinhyun\Documents\GitHub\Advanced-Risk-Management\Tutorial\Week 4"  // change to your working directory / folder
 // Question 1
 use  StockIndex.dta
 bcal load index 
